@@ -38,7 +38,7 @@ TODO
 
 * WrkzCoin: <https://discordapp.com/invite/GpHzURM>
 
-* Bot invitation link: https://discordapp.com/oauth2/authorize?client_id=474841349968101386&scope=bot
+* Bot invitation link: https://discordapp.com/oauth2/authorize?client_id=699542117432819714&scope=bot
 
 ### Short Video
 
